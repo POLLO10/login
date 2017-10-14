@@ -1,11 +1,11 @@
-body{
+body {
 	background: url(f.jpg) no-repeat fixed;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-webkit-background-size: cover;
 }
 
-.container{
+.container {
 	max-width: 100%;
 	height: 600 px;
 	 
@@ -17,16 +17,20 @@ body{
 
 	}
 
-.btn{
+.btn {
 	border: solid black;
 	box-shadow:  -4px 3px 0px 0px gray;
 	color: black;
 	background-color: white;
 }
 
-.posision{
+.posision {
 	z-index: -1000;
 	position: absolute;
 	left: 0px; 
 	top: -15px;
+}
+
+.letra {
+	font-family: 'Lobster', cursive;
 }
