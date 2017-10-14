@@ -1,0 +1,25 @@
+body{
+	background: url(f.jpg) no-repeat fixed;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
+}
+
+.container{
+	max-width:100%;
+	height:690px;
+	 
+}
+/*colocar borde*/
+.borde {
+	border: 5px solid black;
+	margin-top: 17%;
+
+	}
+
+.a {
+	border: 2px solid black;  
+	height: 30px;
+	background: white;
+}
+
